@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Web Application Test Automation Suite">
+
+    <listeners>
+        <listener
+                class-name="com.bridgelabz.facebook.ExtendReportListener.ExtentReporterNG" />
+    </listeners>
+
+    <test name="Login Application test cases">
+        <classes>
+            <class name="com.bridgelabz.facebook.HomePageTest" />
+            <class name="com.bridgelabz.facebook.LoginPageTest" />
+        </classes>
+    </test>
+</suite>
