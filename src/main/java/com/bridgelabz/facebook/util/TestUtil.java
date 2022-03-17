@@ -20,8 +20,8 @@ public class TestUtil extends TestBase {
     public static long PAGE_LOAD_TIMEOUT = 40;
     public static long IMPLICITY_WAIT = 20;
 
-    public static String TESTDATA_SHEET_PATH = "C:\\Users\\Altamash\\IdeaProjects\\OpenPageModelFramwork\\src\\main\\resource\\facebook" +
-            ".xlsx";
+    public static String TESTDATA_SHEET_PATH = "C:\\Users\\Altamash\\IdeaProjects\\OpenPageModelFramwork\\" +
+                                               "src\\main\\resource\\facebook.xlsx";
     static Workbook book;
     static Sheet sheet;
 
@@ -55,19 +55,6 @@ public class TestUtil extends TestBase {
             }
         }
         return data;
-    }
-
-    /**
-     * for take the screenshot
-     */
-    public static void takeScreenshotAtEndOfTest() {
-        File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-        String currentDir = System.getProperty("user.dir");
-        try {
-            FileUtils.copyFile(scrFile, new File(currentDir + "/screenshots/" + System.currentTimeMillis() + ".png"));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
     }
 
 }

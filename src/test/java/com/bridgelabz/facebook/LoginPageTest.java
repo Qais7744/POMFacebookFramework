@@ -4,6 +4,7 @@ import com.bridgelabz.facebook.base.TestBase;
 import com.bridgelabz.facebook.page.Homepage;
 import com.bridgelabz.facebook.page.LoginPage;
 import com.bridgelabz.facebook.util.TestUtil;
+import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -16,6 +17,7 @@ public class LoginPageTest extends TestBase {
     LoginPage loginPage;
     Homepage homepage;
     String sheetName = "Login";
+    Logger log;
 
     public LoginPageTest() {
         super();
@@ -23,6 +25,7 @@ public class LoginPageTest extends TestBase {
 
     @BeforeMethod
     public void setUp() {
+        log = Logger.getLogger(LoginPageTest.class);
         initialization();
         loginPage = new LoginPage();
     }

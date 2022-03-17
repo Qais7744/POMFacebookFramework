@@ -1,0 +1,188 @@
+2022-03-17 08:45:42,754  INFO [main] TestBase:42 - +++++++++++++++++++++++++++++++++++++ Starting test cases execution ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:45:43,022  INFO [main] TestBase:48 - launching chrome browser
+2022-03-17 08:45:43,121 DEBUG [main] InternalLoggerFactory:89 - Using Log4J as the default logging framework
+2022-03-17 08:45:43,126 DEBUG [main] ResourceLeakDetector:129 - -Dio.netty.leakDetection.level: simple
+2022-03-17 08:45:43,126 DEBUG [main] ResourceLeakDetector:130 - -Dio.netty.leakDetection.targetRecords: 4
+2022-03-17 08:45:43,174 DEBUG [main] ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@22875539
+2022-03-17 08:45:43,191 DEBUG [main] PlatformDependent0:460 - -Dio.netty.noUnsafe: false
+2022-03-17 08:45:43,191 DEBUG [main] PlatformDependent0:954 - Java version: 8
+2022-03-17 08:45:43,192 DEBUG [main] PlatformDependent0:135 - sun.misc.Unsafe.theUnsafe: available
+2022-03-17 08:45:43,192 DEBUG [main] PlatformDependent0:159 - sun.misc.Unsafe.copyMemory: available
+2022-03-17 08:45:43,193 DEBUG [main] PlatformDependent0:202 - java.nio.Buffer.address: available
+2022-03-17 08:45:43,193 DEBUG [main] PlatformDependent0:272 - direct buffer constructor: available
+2022-03-17 08:45:43,194 DEBUG [main] PlatformDependent0:350 - java.nio.Bits.unaligned: available, true
+2022-03-17 08:45:43,194 DEBUG [main] PlatformDependent0:424 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+2022-03-17 08:45:43,194 DEBUG [main] PlatformDependent0:446 - java.nio.DirectByteBuffer.<init>(long, int): available
+2022-03-17 08:45:43,194 DEBUG [main] PlatformDependent:1103 - sun.misc.Unsafe: available
+2022-03-17 08:45:43,195 DEBUG [main] PlatformDependent:1224 - -Dio.netty.tmpdir: C:\Users\Altamash\AppData\Local\Temp (java.io.tmpdir)
+2022-03-17 08:45:43,195 DEBUG [main] PlatformDependent:1303 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2022-03-17 08:45:43,196 DEBUG [main] PlatformDependent:1063 - Platform: Windows
+2022-03-17 08:45:43,196 DEBUG [main] PlatformDependent:178 - -Dio.netty.maxDirectMemory: 1754267648 bytes
+2022-03-17 08:45:43,196 DEBUG [main] PlatformDependent:185 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2022-03-17 08:45:43,197 DEBUG [main] CleanerJava6:92 - java.nio.ByteBuffer.cleaner(): available
+2022-03-17 08:45:43,198 DEBUG [main] PlatformDependent:205 - -Dio.netty.noPreferDirect: false
+2022-03-17 08:45:43,204 DEBUG [main] PlatformDependent:967 - org.jctools-core.MpscChunkedArrayQueue: available
+2022-03-17 08:45:43,223 DEBUG [main] InternalThreadLocalMap:83 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-03-17 08:45:43,223 DEBUG [main] InternalThreadLocalMap:86 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-03-17 08:45:43,248 DEBUG [main] JdkSslContext:97 - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+2022-03-17 08:45:43,248 DEBUG [main] JdkSslContext:98 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+2022-03-17 08:45:43,274 DEBUG [main] MultithreadEventLoopGroup:44 - -Dio.netty.eventLoopThreads: 24
+2022-03-17 08:45:43,283 DEBUG [main] NioEventLoop:106 - -Dio.netty.noKeySetOptimization: false
+2022-03-17 08:45:43,283 DEBUG [main] NioEventLoop:107 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-03-17 08:45:43,321 DEBUG [main] PooledByteBufAllocator:155 - -Dio.netty.allocator.numHeapArenas: 17
+2022-03-17 08:45:43,321 DEBUG [main] PooledByteBufAllocator:156 - -Dio.netty.allocator.numDirectArenas: 17
+2022-03-17 08:45:43,321 DEBUG [main] PooledByteBufAllocator:158 - -Dio.netty.allocator.pageSize: 8192
+2022-03-17 08:45:43,322 DEBUG [main] PooledByteBufAllocator:163 - -Dio.netty.allocator.maxOrder: 11
+2022-03-17 08:45:43,322 DEBUG [main] PooledByteBufAllocator:167 - -Dio.netty.allocator.chunkSize: 16777216
+2022-03-17 08:45:43,322 DEBUG [main] PooledByteBufAllocator:168 - -Dio.netty.allocator.smallCacheSize: 256
+2022-03-17 08:45:43,322 DEBUG [main] PooledByteBufAllocator:169 - -Dio.netty.allocator.normalCacheSize: 64
+2022-03-17 08:45:43,322 DEBUG [main] PooledByteBufAllocator:170 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-03-17 08:45:43,322 DEBUG [main] PooledByteBufAllocator:171 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-03-17 08:45:43,322 DEBUG [main] PooledByteBufAllocator:172 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-03-17 08:45:43,322 DEBUG [main] PooledByteBufAllocator:173 - -Dio.netty.allocator.useCacheForAllThreads: true
+2022-03-17 08:45:43,323 DEBUG [main] PooledByteBufAllocator:174 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-03-17 08:45:43,331 DEBUG [main] ByteBufUtil:87 - -Dio.netty.allocator.type: pooled
+2022-03-17 08:45:43,331 DEBUG [main] ByteBufUtil:96 - -Dio.netty.threadLocalDirectBufferSize: 0
+2022-03-17 08:45:43,332 DEBUG [main] ByteBufUtil:99 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-03-17 08:45:44,076 DEBUG [Forwarding newSession on session null to remote] DefaultChannelId:79 - -Dio.netty.processId: 31364 (auto-detected)
+2022-03-17 08:45:44,078 DEBUG [Forwarding newSession on session null to remote] NetUtil:135 - -Djava.net.preferIPv4Stack: false
+2022-03-17 08:45:44,078 DEBUG [Forwarding newSession on session null to remote] NetUtil:136 - -Djava.net.preferIPv6Addresses: false
+2022-03-17 08:45:44,245 DEBUG [Forwarding newSession on session null to remote] NetUtilInitializations:129 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-03-17 08:45:44,246 DEBUG [Forwarding newSession on session null to remote] NetUtil:187 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-03-17 08:45:44,423 DEBUG [Forwarding newSession on session null to remote] DefaultChannelId:101 - -Dio.netty.machineId: f8:89:d2:ff:fe:6f:d3:63 (auto-detected)
+2022-03-17 08:45:44,464 DEBUG [AsyncHttpClient-1-2] AbstractByteBuf:63 - -Dio.netty.buffer.checkAccessible: true
+2022-03-17 08:45:44,464 DEBUG [AsyncHttpClient-1-2] AbstractByteBuf:64 - -Dio.netty.buffer.checkBounds: true
+2022-03-17 08:45:44,464 DEBUG [AsyncHttpClient-1-2] ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@599a71e2
+2022-03-17 08:45:44,484 DEBUG [AsyncHttpClient-1-2] Recycler:103 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-03-17 08:45:44,484 DEBUG [AsyncHttpClient-1-2] Recycler:104 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2022-03-17 08:45:44,484 DEBUG [AsyncHttpClient-1-2] Recycler:105 - -Dio.netty.recycler.linkCapacity: 16
+2022-03-17 08:45:44,484 DEBUG [AsyncHttpClient-1-2] Recycler:106 - -Dio.netty.recycler.ratio: 8
+2022-03-17 08:45:44,484 DEBUG [AsyncHttpClient-1-2] Recycler:107 - -Dio.netty.recycler.delayedQueue.ratio: 8
+2022-03-17 08:45:45,071 DEBUG [AsyncHttpClient-1-2] Brotli:38 - brotli4j not in the classpath; Brotli support will be unavailable.
+2022-03-17 08:45:45,151 DEBUG [main] ThreadLocalRandom:214 - -Dio.netty.initialSeedUniquifier: 0x301519d8935b0f5f
+2022-03-17 08:45:50,820  INFO [main] TestBase:56 - entering application URL
+2022-03-17 08:45:50,820  WARN [main] TestBase:57 - Hey this is just a warning message
+2022-03-17 08:45:50,820 FATAL [main] TestBase:58 - Hey this is just fatal error message
+2022-03-17 08:45:50,821 DEBUG [main] TestBase:59 - this is debug message
+2022-03-17 08:45:50,841  INFO [main] LoginPageTest:57 - +++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:45:50,841  INFO [main] LoginPageTest:58 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:45:50,970  INFO [main] LoginPageTest:62 - +++++++++++++++++++++++++++++++++++++ Ending test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:45:50,970  INFO [main] LoginPageTest:63 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:01,706  INFO [main] LoginPageTest:74 - +++++++++++++++++++++++++++++++++++++ Browser is closed ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:01,708  INFO [main] TestBase:42 - +++++++++++++++++++++++++++++++++++++ Starting test cases execution ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:01,733  INFO [main] TestBase:48 - launching chrome browser
+2022-03-17 08:46:04,668  INFO [main] TestBase:56 - entering application URL
+2022-03-17 08:46:04,668  WARN [main] TestBase:57 - Hey this is just a warning message
+2022-03-17 08:46:04,668 FATAL [main] TestBase:58 - Hey this is just fatal error message
+2022-03-17 08:46:04,668 DEBUG [main] TestBase:59 - this is debug message
+2022-03-17 08:46:04,669  INFO [main] LoginPageTest:57 - +++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:04,669  INFO [main] LoginPageTest:58 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:04,785  INFO [main] LoginPageTest:62 - +++++++++++++++++++++++++++++++++++++ Ending test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:04,785  INFO [main] LoginPageTest:63 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:15,486  INFO [main] LoginPageTest:74 - +++++++++++++++++++++++++++++++++++++ Browser is closed ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:15,488  INFO [main] TestBase:42 - +++++++++++++++++++++++++++++++++++++ Starting test cases execution ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:15,508  INFO [main] TestBase:48 - launching chrome browser
+2022-03-17 08:46:18,500  INFO [main] TestBase:56 - entering application URL
+2022-03-17 08:46:18,500  WARN [main] TestBase:57 - Hey this is just a warning message
+2022-03-17 08:46:18,500 FATAL [main] TestBase:58 - Hey this is just fatal error message
+2022-03-17 08:46:18,500 DEBUG [main] TestBase:59 - this is debug message
+2022-03-17 08:46:18,501  INFO [main] LoginPageTest:35 - +++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:18,501  INFO [main] LoginPageTest:36 - +++++++++++++++++++++++++++++++++++++ loginPageTitleTest ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:18,505  INFO [main] LoginPageTest:38 - Login Page title is---->Facebook – log in or sign up
+2022-03-17 08:46:18,507  INFO [main] LoginPageTest:41 - +++++++++++++++++++++++++++++++++++++ Ending test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:18,507  INFO [main] LoginPageTest:42 - +++++++++++++++++++++++++++++++++++++ loginPageTitleTest ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 08:46:29,166  INFO [main] LoginPageTest:74 - +++++++++++++++++++++++++++++++++++++ Browser is closed ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:41,007  INFO [main] TestBase:42 - +++++++++++++++++++++++++++++++++++++ Starting test cases execution ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:42,025  INFO [main] TestBase:48 - launching chrome browser
+2022-03-17 12:15:42,114 DEBUG [main] InternalLoggerFactory:89 - Using Log4J as the default logging framework
+2022-03-17 12:15:42,118 DEBUG [main] ResourceLeakDetector:129 - -Dio.netty.leakDetection.level: simple
+2022-03-17 12:15:42,119 DEBUG [main] ResourceLeakDetector:130 - -Dio.netty.leakDetection.targetRecords: 4
+2022-03-17 12:15:42,122 DEBUG [main] ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3d9f6567
+2022-03-17 12:15:42,138 DEBUG [main] PlatformDependent0:460 - -Dio.netty.noUnsafe: false
+2022-03-17 12:15:42,138 DEBUG [main] PlatformDependent0:954 - Java version: 8
+2022-03-17 12:15:42,139 DEBUG [main] PlatformDependent0:135 - sun.misc.Unsafe.theUnsafe: available
+2022-03-17 12:15:42,139 DEBUG [main] PlatformDependent0:159 - sun.misc.Unsafe.copyMemory: available
+2022-03-17 12:15:42,140 DEBUG [main] PlatformDependent0:202 - java.nio.Buffer.address: available
+2022-03-17 12:15:42,140 DEBUG [main] PlatformDependent0:272 - direct buffer constructor: available
+2022-03-17 12:15:42,141 DEBUG [main] PlatformDependent0:350 - java.nio.Bits.unaligned: available, true
+2022-03-17 12:15:42,141 DEBUG [main] PlatformDependent0:424 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+2022-03-17 12:15:42,141 DEBUG [main] PlatformDependent0:446 - java.nio.DirectByteBuffer.<init>(long, int): available
+2022-03-17 12:15:42,141 DEBUG [main] PlatformDependent:1103 - sun.misc.Unsafe: available
+2022-03-17 12:15:42,142 DEBUG [main] PlatformDependent:1224 - -Dio.netty.tmpdir: C:\Users\Altamash\AppData\Local\Temp (java.io.tmpdir)
+2022-03-17 12:15:42,142 DEBUG [main] PlatformDependent:1303 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2022-03-17 12:15:42,142 DEBUG [main] PlatformDependent:1063 - Platform: Windows
+2022-03-17 12:15:42,143 DEBUG [main] PlatformDependent:178 - -Dio.netty.maxDirectMemory: 1754267648 bytes
+2022-03-17 12:15:42,143 DEBUG [main] PlatformDependent:185 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2022-03-17 12:15:42,144 DEBUG [main] CleanerJava6:92 - java.nio.ByteBuffer.cleaner(): available
+2022-03-17 12:15:42,144 DEBUG [main] PlatformDependent:205 - -Dio.netty.noPreferDirect: false
+2022-03-17 12:15:42,151 DEBUG [main] PlatformDependent:967 - org.jctools-core.MpscChunkedArrayQueue: available
+2022-03-17 12:15:42,168 DEBUG [main] InternalThreadLocalMap:83 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-03-17 12:15:42,168 DEBUG [main] InternalThreadLocalMap:86 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-03-17 12:15:42,178 DEBUG [main] JdkSslContext:97 - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+2022-03-17 12:15:42,179 DEBUG [main] JdkSslContext:98 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+2022-03-17 12:15:42,202 DEBUG [main] MultithreadEventLoopGroup:44 - -Dio.netty.eventLoopThreads: 24
+2022-03-17 12:15:42,210 DEBUG [main] NioEventLoop:106 - -Dio.netty.noKeySetOptimization: false
+2022-03-17 12:15:42,210 DEBUG [main] NioEventLoop:107 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-03-17 12:15:42,245 DEBUG [main] PooledByteBufAllocator:155 - -Dio.netty.allocator.numHeapArenas: 17
+2022-03-17 12:15:42,245 DEBUG [main] PooledByteBufAllocator:156 - -Dio.netty.allocator.numDirectArenas: 17
+2022-03-17 12:15:42,245 DEBUG [main] PooledByteBufAllocator:158 - -Dio.netty.allocator.pageSize: 8192
+2022-03-17 12:15:42,246 DEBUG [main] PooledByteBufAllocator:163 - -Dio.netty.allocator.maxOrder: 11
+2022-03-17 12:15:42,246 DEBUG [main] PooledByteBufAllocator:167 - -Dio.netty.allocator.chunkSize: 16777216
+2022-03-17 12:15:42,246 DEBUG [main] PooledByteBufAllocator:168 - -Dio.netty.allocator.smallCacheSize: 256
+2022-03-17 12:15:42,246 DEBUG [main] PooledByteBufAllocator:169 - -Dio.netty.allocator.normalCacheSize: 64
+2022-03-17 12:15:42,246 DEBUG [main] PooledByteBufAllocator:170 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-03-17 12:15:42,246 DEBUG [main] PooledByteBufAllocator:171 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-03-17 12:15:42,246 DEBUG [main] PooledByteBufAllocator:172 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-03-17 12:15:42,246 DEBUG [main] PooledByteBufAllocator:173 - -Dio.netty.allocator.useCacheForAllThreads: true
+2022-03-17 12:15:42,246 DEBUG [main] PooledByteBufAllocator:174 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-03-17 12:15:42,256 DEBUG [main] ByteBufUtil:87 - -Dio.netty.allocator.type: pooled
+2022-03-17 12:15:42,257 DEBUG [main] ByteBufUtil:96 - -Dio.netty.threadLocalDirectBufferSize: 0
+2022-03-17 12:15:42,257 DEBUG [main] ByteBufUtil:99 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-03-17 12:15:43,004 DEBUG [Forwarding newSession on session null to remote] DefaultChannelId:79 - -Dio.netty.processId: 5096 (auto-detected)
+2022-03-17 12:15:43,006 DEBUG [Forwarding newSession on session null to remote] NetUtil:135 - -Djava.net.preferIPv4Stack: false
+2022-03-17 12:15:43,006 DEBUG [Forwarding newSession on session null to remote] NetUtil:136 - -Djava.net.preferIPv6Addresses: false
+2022-03-17 12:15:43,173 DEBUG [Forwarding newSession on session null to remote] NetUtilInitializations:129 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-03-17 12:15:43,174 DEBUG [Forwarding newSession on session null to remote] NetUtil:187 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-03-17 12:15:43,347 DEBUG [Forwarding newSession on session null to remote] DefaultChannelId:101 - -Dio.netty.machineId: f8:89:d2:ff:fe:6f:d3:63 (auto-detected)
+2022-03-17 12:15:43,386 DEBUG [AsyncHttpClient-1-2] AbstractByteBuf:63 - -Dio.netty.buffer.checkAccessible: true
+2022-03-17 12:15:43,386 DEBUG [AsyncHttpClient-1-2] AbstractByteBuf:64 - -Dio.netty.buffer.checkBounds: true
+2022-03-17 12:15:43,386 DEBUG [AsyncHttpClient-1-2] ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@60874640
+2022-03-17 12:15:43,405 DEBUG [AsyncHttpClient-1-2] Recycler:103 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-03-17 12:15:43,405 DEBUG [AsyncHttpClient-1-2] Recycler:104 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2022-03-17 12:15:43,405 DEBUG [AsyncHttpClient-1-2] Recycler:105 - -Dio.netty.recycler.linkCapacity: 16
+2022-03-17 12:15:43,405 DEBUG [AsyncHttpClient-1-2] Recycler:106 - -Dio.netty.recycler.ratio: 8
+2022-03-17 12:15:43,405 DEBUG [AsyncHttpClient-1-2] Recycler:107 - -Dio.netty.recycler.delayedQueue.ratio: 8
+2022-03-17 12:15:44,204 DEBUG [AsyncHttpClient-1-2] Brotli:38 - brotli4j not in the classpath; Brotli support will be unavailable.
+2022-03-17 12:15:44,289 DEBUG [main] ThreadLocalRandom:214 - -Dio.netty.initialSeedUniquifier: 0xad869a6f5b69182c
+2022-03-17 12:15:46,121  INFO [main] TestBase:56 - entering application URL
+2022-03-17 12:15:46,121  WARN [main] TestBase:57 - Hey this is just a warning message
+2022-03-17 12:15:46,121 FATAL [main] TestBase:58 - Hey this is just fatal error message
+2022-03-17 12:15:46,121 DEBUG [main] TestBase:59 - this is debug message
+2022-03-17 12:15:46,137  INFO [main] LoginPageTest:57 - +++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:46,138  INFO [main] LoginPageTest:58 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:46,263  INFO [main] LoginPageTest:62 - +++++++++++++++++++++++++++++++++++++ Ending test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:46,263  INFO [main] LoginPageTest:63 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:56,953  INFO [main] LoginPageTest:74 - +++++++++++++++++++++++++++++++++++++ Browser is closed ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:56,953  INFO [main] TestBase:42 - +++++++++++++++++++++++++++++++++++++ Starting test cases execution ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:56,973  INFO [main] TestBase:48 - launching chrome browser
+2022-03-17 12:15:59,560  INFO [main] TestBase:56 - entering application URL
+2022-03-17 12:15:59,560  WARN [main] TestBase:57 - Hey this is just a warning message
+2022-03-17 12:15:59,560 FATAL [main] TestBase:58 - Hey this is just fatal error message
+2022-03-17 12:15:59,560 DEBUG [main] TestBase:59 - this is debug message
+2022-03-17 12:15:59,561  INFO [main] LoginPageTest:57 - +++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:59,561  INFO [main] LoginPageTest:58 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:59,675  INFO [main] LoginPageTest:62 - +++++++++++++++++++++++++++++++++++++ Ending test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:15:59,676  INFO [main] LoginPageTest:63 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:16:10,360  INFO [main] LoginPageTest:74 - +++++++++++++++++++++++++++++++++++++ Browser is closed ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:16:10,362  INFO [main] TestBase:42 - +++++++++++++++++++++++++++++++++++++ Starting test cases execution ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:16:10,412  INFO [main] TestBase:48 - launching chrome browser
+2022-03-17 12:16:12,956  INFO [main] TestBase:56 - entering application URL
+2022-03-17 12:16:12,956  WARN [main] TestBase:57 - Hey this is just a warning message
+2022-03-17 12:16:12,956 FATAL [main] TestBase:58 - Hey this is just fatal error message
+2022-03-17 12:16:12,956 DEBUG [main] TestBase:59 - this is debug message
+2022-03-17 12:16:12,957  INFO [main] LoginPageTest:35 - +++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:16:12,957  INFO [main] LoginPageTest:36 - +++++++++++++++++++++++++++++++++++++ loginPageTitleTest ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:16:12,961  INFO [main] LoginPageTest:38 - Login Page title is---->Facebook – log in or sign up
+2022-03-17 12:16:12,962  INFO [main] LoginPageTest:41 - +++++++++++++++++++++++++++++++++++++ Ending test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:16:12,963  INFO [main] LoginPageTest:42 - +++++++++++++++++++++++++++++++++++++ loginPageTitleTest ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-17 12:16:23,601  INFO [main] LoginPageTest:74 - +++++++++++++++++++++++++++++++++++++ Browser is closed ++++++++++++++++++++++++++++++++++++++++++++++

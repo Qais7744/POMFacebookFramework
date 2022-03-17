@@ -11,6 +11,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class HomePageTest extends TestBase {
+
     LoginPage loginPage;
     Homepage homepage;
     ProfilePage profilePage;
