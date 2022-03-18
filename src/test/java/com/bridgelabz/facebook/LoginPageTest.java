@@ -34,6 +34,7 @@ public class LoginPageTest extends TestBase {
     public void loginPageTitleTest() {
         log.info("+++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++");
         log.info("+++++++++++++++++++++++++++++++++++++ loginPageTitleTest ++++++++++++++++++++++++++++++++++++++++++++++");
+
         String title = loginPage.validataLoginPageTitle();
         log.info("Login Page title is---->" + title);
         Assert.assertEquals(title, "Facebook – log in or sign up", title);
@@ -56,6 +57,7 @@ public class LoginPageTest extends TestBase {
     public void loginTest(String username, String password) {
         log.info("+++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++");
         log.info("+++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++");
+
         loginPage = new LoginPage();
         homepage = loginPage.login(username, password);
 
