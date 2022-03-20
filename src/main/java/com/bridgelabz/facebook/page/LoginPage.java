@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class LoginPage extends TestBase {
 
     //Page Factory = Object Repository
-    @FindBy(id = "email3")
+    @FindBy(id = "email")
     WebElement username;
 
     @FindBy(xpath = "//input[@id='pass']")
