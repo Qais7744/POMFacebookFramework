@@ -13,13 +13,16 @@ public class Homepage extends TestBase {
     @FindBy(xpath = "//span[contains(text(), 'Friends')]")
     WebElement findFriend;
 
+    @FindBy(xpath = "//span[contains(text(),'Groups')]")
+    WebElement groups;
+
     public Homepage() {
         PageFactory.initElements(driver, this);
     }
 
     public String verifyHomePagePageTitle() {
         try {
-            Thread.sleep(2000);
+            Thread.sleep(4000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -34,6 +37,11 @@ public class Homepage extends TestBase {
     public FindFriendsPage clickOnFriends() {
         findFriend.click();
         return new FindFriendsPage();
+    }
+
+    public GroupsPage clickOnGroups() {
+        groups.click();
+        return new GroupsPage();
     }
 
 }

@@ -1,10 +1,7 @@
 package com.bridgelabz.facebook;
 
 import com.bridgelabz.facebook.base.TestBase;
-import com.bridgelabz.facebook.page.FindFriendsPage;
-import com.bridgelabz.facebook.page.Homepage;
-import com.bridgelabz.facebook.page.LoginPage;
-import com.bridgelabz.facebook.page.ProfilePage;
+import com.bridgelabz.facebook.page.*;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -16,6 +13,7 @@ public class HomePageTest extends TestBase {
     Homepage homepage;
     ProfilePage profilePage;
     FindFriendsPage findFriendsPage;
+    GroupsPage groupsPage;
 
     public HomePageTest() {
         super();
@@ -35,7 +33,7 @@ public class HomePageTest extends TestBase {
     @Test(priority = 1)
     public void verifyHomePageTitleTest() {
         String homePageTitle = homepage.verifyHomePagePageTitle();
-        Assert.assertEquals(homePageTitle, "(2) Facebook", "HomePage is not matched");
+        Assert.assertEquals(homePageTitle, "Facebook", "HomePage is not matched");
     }
 
     @Test(priority = 2)
@@ -47,6 +45,12 @@ public class HomePageTest extends TestBase {
     @Test(priority = 3)
     public void verifyClickOnFriends() {
         findFriendsPage = homepage.clickOnFriends();
+
+    }
+
+    @Test(priority = 4)
+    public void verifyClickOnGroups() {
+        groupsPage = homepage.clickOnGroups();
 
     }
 

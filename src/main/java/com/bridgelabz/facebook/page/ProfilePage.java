@@ -10,22 +10,16 @@ public class ProfilePage extends TestBase {
     @FindBy(xpath = "//span[contains(text(), 'About')]")
     WebElement about;
 
-    @FindBy(xpath = "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/" +
-                    "div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]" +
-                    "/div[1]/a[3]/div[1]/span[1]")
+    @FindBy(xpath = "//span[contains(@xpath,'1')]")
     WebElement friends;
 
     @FindBy(xpath = "//span[contains(text(), 'Photos')]")
     WebElement photos;
 
-    @FindBy(xpath = "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div" +
-                    "[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]" +
-                    "/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[5]/div[1]/span[1]")
+    @FindBy(xpath = "//span[contains(text(),'Videos')]")
     WebElement videos;
 
-    @FindBy(xpath = "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]" +
-                    "/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]" +
-                    "/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[6]/div[1]/span[1]")
+    @FindBy(xpath = "//span[contains(text(),'Check-ins')]")
     WebElement check;
 
 

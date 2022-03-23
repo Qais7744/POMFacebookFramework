@@ -33,8 +33,8 @@ public class ProfilePageTest extends TestBase {
 
     @Test(priority = 1)
     public void verifyProfilePageTitleTest() {
-        String homePageTitle = profilePage.verifyProfilePageTitle();
-        Assert.assertEquals(homePageTitle, "Altamash Bagwan | Facebook", "ProfilePage is not matched");
+        String profilePageTitle = profilePage.verifyProfilePageTitle();
+        Assert.assertEquals(profilePageTitle, "Altamash Bagwan | Facebook", "ProfilePage is not matched");
     }
 
     @Test(priority = 2)
