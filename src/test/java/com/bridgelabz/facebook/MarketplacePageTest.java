@@ -48,13 +48,13 @@ public class MarketplacePageTest extends TestBase {
 
     }
 
-    @Test(priority = 3)
+    @Test(priority = 4)
     public void verifyClickOnBuying() {
         buyingPage = marketplacePage.clickOnBuying();
 
     }
 
-    @Test(priority = 4)
+    @Test(priority = 5)
     public void verifyClickOnSelling() {
         sellingPage = marketplacePage.clickOnSelling();
 
