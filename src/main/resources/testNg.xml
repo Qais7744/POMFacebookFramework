@@ -11,6 +11,9 @@
         <classes>
             <class name="com.bridgelabz.facebook.HomePageTest" />
             <class name="com.bridgelabz.facebook.LoginPageTest" />
+            <class name="com.bridgelabz.facebook.ProfilePageTest" />
+            <class name="com.bridgelabz.facebook.AboutPageTest" />
+            <class name="com.bridgelabz.facebook.GroupsPageTest" />
         </classes>
     </test>
 </suite>

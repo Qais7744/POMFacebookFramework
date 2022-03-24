@@ -830,3 +830,343 @@
 2022-03-24 00:31:21,441  WARN [main] TestBase:70 - Hey this is just a warning message
 2022-03-24 00:31:21,441 FATAL [main] TestBase:71 - Hey this is just fatal error message
 2022-03-24 00:31:21,441 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:29:43,337  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:29:48,249  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:29:48,249  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:29:48,250 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:29:48,250 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:30:05,081  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:30:07,852  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:30:07,853  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:30:07,853 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:30:07,853 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:30:34,434  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:30:37,280  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:30:37,281  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:30:37,281 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:30:37,281 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:30:54,794  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:30:57,503  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:30:57,503  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:30:57,503 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:30:57,503 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:31:13,114  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:17,996  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:31:17,996  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:31:17,996 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:31:17,996 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:31:17,997  INFO [main] LoginPageTest:58 - +++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:17,997  INFO [main] LoginPageTest:59 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:18,275  INFO [main] LoginPageTest:64 - +++++++++++++++++++++++++++++++++++++ Ending test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:18,276  INFO [main] LoginPageTest:65 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:29,166  INFO [main] LoginPageTest:76 - +++++++++++++++++++++++++++++++++++++ Browser is closed ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:29,168  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:40,484  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:31:40,484  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:31:40,485 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:31:40,485 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:31:40,486  INFO [main] LoginPageTest:58 - +++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:40,486  INFO [main] LoginPageTest:59 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:40,707  INFO [main] LoginPageTest:64 - +++++++++++++++++++++++++++++++++++++ Ending test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:40,707  INFO [main] LoginPageTest:65 - +++++++++++++++++++++++++++++++++++++ getLoginTestdata ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:51,461  INFO [main] LoginPageTest:76 - +++++++++++++++++++++++++++++++++++++ Browser is closed ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:51,462  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:54,986  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:31:54,986  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:31:54,987 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:31:54,987 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:31:54,988  INFO [main] LoginPageTest:35 - +++++++++++++++++++++++++++++++++++++ Starting test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:54,988  INFO [main] LoginPageTest:36 - +++++++++++++++++++++++++++++++++++++ loginPageTitleTest ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:54,993  INFO [main] LoginPageTest:39 - Login Page title is---->Facebook – log in or sign up
+2022-03-24 08:31:54,993  INFO [main] LoginPageTest:42 - +++++++++++++++++++++++++++++++++++++ Ending test case ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:31:54,993  INFO [main] LoginPageTest:43 - +++++++++++++++++++++++++++++++++++++ loginPageTitleTest ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:32:05,862  INFO [main] LoginPageTest:76 - +++++++++++++++++++++++++++++++++++++ Browser is closed ++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:32:05,864  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:32:08,895  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:32:08,895  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:32:08,895 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:32:08,896 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:32:37,137  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:32:41,710  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:32:41,711  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:32:41,711 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:32:41,711 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:33:08,497  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:33:11,715  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:33:11,716  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:33:11,716 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:33:11,716 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:33:55,947  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:33:59,065  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:33:59,065  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:33:59,065 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:33:59,065 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:34:19,895  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:34:22,824  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:34:22,825  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:34:22,825 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:34:22,825 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:34:43,212  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:34:46,530  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:34:46,530  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:34:46,530 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:34:46,531 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:35:10,467  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:35:15,129  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:35:15,130  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:35:15,130 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:35:15,130 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:35:31,155  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:35:35,361  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:35:35,361  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:35:35,361 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:35:35,362 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:36:06,583  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 08:36:10,300  INFO [main] TestBase:69 - entering application URL
+2022-03-24 08:36:10,301  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 08:36:10,301 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 08:36:10,301 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 08:36:40,723 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-24 08:36:40,724 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-24 08:36:40,725 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-24 08:36:40,726 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-24 08:36:40,726 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Altamash/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-24 08:36:40,972 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-24 08:36:40,973 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-24 08:36:40,973 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-24 08:36:40,973 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-24 08:36:40,974 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Altamash/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-24 15:58:32,521  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 15:58:38,707  INFO [main] TestBase:69 - entering application URL
+2022-03-24 15:58:38,708  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 15:58:38,708 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 15:58:38,708 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:00:04,121  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:00:07,816  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:00:07,817  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:00:07,817 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:00:07,817 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:01:23,574  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:01:27,837  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:01:27,837  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:01:27,837 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:01:27,837 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:01:54,921  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:01:57,879  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:01:57,879  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:01:57,879 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:01:57,879 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:03:42,769  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:03:46,841  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:03:46,842  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:03:46,842 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:03:46,842 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:04:05,076  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:04:08,764  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:04:08,764  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:04:08,764 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:04:08,765 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:04:34,718  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:04:38,047  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:04:38,047  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:04:38,047 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:04:38,047 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:07:43,721  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:07:48,089  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:07:48,090  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:07:48,090 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:07:48,090 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:08:05,231  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:08:08,869  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:08:08,869  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:08:08,870 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:08:08,870 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:08:25,400  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:09:16,081  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:09:20,061  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:09:20,062  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:09:20,062 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:09:20,062 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:09:36,717  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:09:39,958  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:09:39,958  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:09:39,959 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:09:39,959 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:09:58,140  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:10:01,415  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:10:01,416  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:10:01,416 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:10:01,416 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:10:32,928  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:10:37,786  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:10:37,786  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:10:37,786 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:10:37,786 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:10:55,847  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:10:59,079  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:10:59,080  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:10:59,080 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:10:59,080 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:11:16,271  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:11:19,675  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:11:19,675  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:11:19,675 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:11:19,676 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:11:55,020  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:11:58,306  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:11:58,307  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:11:58,307 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:11:58,307 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:12:15,563  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:12:18,731  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:12:18,732  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:12:18,732 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:12:18,732 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:16:00,049  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:16:15,706  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:16:19,514  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:16:19,515  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:16:19,515 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:16:19,516 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:16:32,333  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:16:35,159  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:16:35,159  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:16:35,159 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:16:35,160 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:16:48,337  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:16:51,466  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:16:51,466  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:16:51,466 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:16:51,466 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:17:16,575  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:17:20,665  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:17:20,666  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:17:20,666 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:17:20,666 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:17:33,701  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:17:36,836  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:17:36,836  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:17:36,837 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:17:36,837 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:17:49,745  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:17:53,062  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:17:53,062  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:17:53,062 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:17:53,063 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:18:09,167  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:18:13,057  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:18:13,057  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:18:13,057 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:18:13,058 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:18:26,784  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:18:29,924  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:18:29,925  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:18:29,925 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:18:29,925 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:18:42,809  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:18:45,501  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:18:45,501  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:18:45,501 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:18:45,501 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:22:45,282  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:22:49,106  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:22:49,107  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:22:49,107 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:22:49,107 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:23:02,481  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:23:05,489  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:23:05,489  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:23:05,489 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:23:05,489 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:23:18,318  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:23:21,056  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:23:21,057  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:23:21,057 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:23:21,057 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:23:32,616  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:23:35,933  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:23:35,934  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:23:35,934 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:23:35,934 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:23:52,253  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:23:56,402  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:23:56,403  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:23:56,403 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:23:56,403 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:24:10,153  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:24:13,254  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:24:13,255  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:24:13,255 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:24:13,255 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:24:45,876  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:24:49,384  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:24:49,384  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:24:49,384 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:24:49,385 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:25:02,514  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:25:05,437  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:25:05,437  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:25:05,437 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:25:05,437 DEBUG [main] TestBase:72 - this is debug message
+2022-03-24 16:25:19,548  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-24 16:25:22,663  INFO [main] TestBase:69 - entering application URL
+2022-03-24 16:25:22,663  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-24 16:25:22,663 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-24 16:25:22,663 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:21:16,528  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:21:31,611  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:21:50,218  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:21:50,218  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:21:50,218 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:21:50,219 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:22:11,953  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:22:15,792  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:22:15,793  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:22:15,793 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:22:15,793 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:22:51,085  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:22:56,330  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:22:56,331  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:22:56,331 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:22:56,331 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:23:15,008  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:23:18,466  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:23:18,466  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:23:18,466 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:23:18,466 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:23:43,144  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:23:46,811  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:23:46,811  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:23:46,811 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:23:46,811 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:47:28,270  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:47:39,640  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:47:39,641  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:47:39,641 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:47:39,641 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:51:45,473  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:52:39,602  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:52:43,925  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:52:43,925  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:52:43,925 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:52:43,925 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:52:59,232  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:53:02,621  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:53:02,621  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:53:02,622 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:53:02,622 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:53:40,114  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:53:56,722  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:53:56,723  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:53:56,723 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:53:56,723 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:54:48,466  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:55:07,022  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:55:07,022  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:55:07,023 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:55:07,023 DEBUG [main] TestBase:72 - this is debug message
+2022-03-25 00:55:34,858  INFO [main] TestBase:40 - ++++++++++++++++++++++++++++++++++++++++ Starting test case execution +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-03-25 00:55:44,093  INFO [main] TestBase:69 - entering application URL
+2022-03-25 00:55:44,093  WARN [main] TestBase:70 - Hey this is just a warning message
+2022-03-25 00:55:44,094 FATAL [main] TestBase:71 - Hey this is just fatal error message
+2022-03-25 00:55:44,094 DEBUG [main] TestBase:72 - this is debug message

@@ -16,6 +16,9 @@ public class Homepage extends TestBase {
     @FindBy(xpath = "//span[contains(text(),'Groups')]")
     WebElement groups;
 
+    @FindBy(xpath = "//span[contains(text(),'Marketplace')]")
+    WebElement marketplace;
+
     public Homepage() {
         PageFactory.initElements(driver, this);
     }
@@ -42,6 +45,11 @@ public class Homepage extends TestBase {
     public GroupsPage clickOnGroups() {
         groups.click();
         return new GroupsPage();
+    }
+
+    public MarketplacePage clickOnMarketplace() {
+        marketplace.click();
+        return new MarketplacePage();
     }
 
 }

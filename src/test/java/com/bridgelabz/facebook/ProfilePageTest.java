@@ -34,7 +34,7 @@ public class ProfilePageTest extends TestBase {
     @Test(priority = 1)
     public void verifyProfilePageTitleTest() {
         String profilePageTitle = profilePage.verifyProfilePageTitle();
-        Assert.assertEquals(profilePageTitle, "Altamash Bagwan | Facebook", "ProfilePage is not matched");
+        Assert.assertEquals(profilePageTitle, "(1) Altamash Bagwan | Facebook", "ProfilePage is not matched");
     }
 
     @Test(priority = 2)
@@ -70,7 +70,7 @@ public class ProfilePageTest extends TestBase {
     @AfterMethod
     public void tearDown() {
         try {
-            Thread.sleep(9000);
+            Thread.sleep(5000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

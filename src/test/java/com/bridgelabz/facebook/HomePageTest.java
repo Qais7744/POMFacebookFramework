@@ -14,6 +14,7 @@ public class HomePageTest extends TestBase {
     ProfilePage profilePage;
     FindFriendsPage findFriendsPage;
     GroupsPage groupsPage;
+    MarketplacePage marketplace;
 
     public HomePageTest() {
         super();
@@ -33,7 +34,7 @@ public class HomePageTest extends TestBase {
     @Test(priority = 1)
     public void verifyHomePageTitleTest() {
         String homePageTitle = homepage.verifyHomePagePageTitle();
-        Assert.assertEquals(homePageTitle, "Facebook", "HomePage is not matched");
+        Assert.assertEquals(homePageTitle, "(2) Facebook", "HomePage is not matched");
     }
 
     @Test(priority = 2)
@@ -51,6 +52,12 @@ public class HomePageTest extends TestBase {
     @Test(priority = 4)
     public void verifyClickOnGroups() {
         groupsPage = homepage.clickOnGroups();
+
+    }
+
+    @Test(priority = 5)
+    public void verifyClickOnMarketplace() {
+        marketplace = homepage.clickOnMarketplace();
 
     }
 

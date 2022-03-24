@@ -36,7 +36,7 @@ public class AboutPageTest extends TestBase {
     @Test(priority = 1)
     public void verifyAboutPageTitleTest() {
         String aboutPageTitle = aboutPage.verifyAboutPageTitle();
-        Assert.assertEquals(aboutPageTitle, "Altamash Bagwan | Facebook", "AboutPage is not matched");
+        Assert.assertEquals(aboutPageTitle, "(1) Altamash Bagwan | Facebook", "AboutPage is not matched");
     }
 
     @Test(priority = 2)
